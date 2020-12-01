@@ -45,10 +45,10 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'host' =>'us-cdbr-east-02.cleardb.com',
-            'database' =>' heroku_3371dadf71134c7',
-            'username' =>'bae6c3790e3c3e',
-            'password' => '380d21e7',
+            'host' =>'localhost',
+            'database' =>'api',
+            'username' =>'messi',
+            'password' => 'nymar',
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
             'prefix' => '',
