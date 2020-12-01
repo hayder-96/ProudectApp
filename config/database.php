@@ -45,15 +45,14 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'host' =>'us-cdbr-iron-east-04.cleardb.net',
+            'host' =>'us-cdbr-east-02.cleardb.com',
             'database' =>' heroku_3371dadf71134c7',
             'username' =>'bae6c3790e3c3e',
             'password' => '380d21e7',
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
             'prefix' => '',
-            'prefix_indexes' => true,
-            'strict' => true,
+            'strict' => false,
           
         ],
 
